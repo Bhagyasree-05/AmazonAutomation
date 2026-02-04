@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-04T08:26:46 IST" name="Surefire suite" finished-at="2026-02-04T08:27:19 IST" duration-ms="32987">
+    <groups>
+    </groups>
+    <test started-at="2026-02-04T08:26:46 IST" name="Surefire test" finished-at="2026-02-04T08:27:19 IST" duration-ms="32987">
+      <class name="tests.AmazonTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AmazonTest@52aa2946]" started-at="2026-02-04T08:26:46 IST" name="setup" finished-at="2026-02-04T08:26:54 IST" duration-ms="8059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openAmazonAndSearchItem()[pri:0, instance:tests.AmazonTest@52aa2946]" started-at="2026-02-04T08:26:54 IST" name="openAmazonAndSearchItem" finished-at="2026-02-04T08:27:16 IST" duration-ms="22456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAmazonAndSearchItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AmazonTest@52aa2946]" started-at="2026-02-04T08:27:16 IST" name="tearDown" finished-at="2026-02-04T08:27:19 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AmazonTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
